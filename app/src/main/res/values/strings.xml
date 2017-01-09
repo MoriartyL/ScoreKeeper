@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="touchdown">+6 TouchDown</string>
+    <string name="fieldgoal">+3 FieldGoal</string>
+    <string name="safety">+2 Safety</string>
+    <string name="end_game">END OF GAME</string>
+    <string name="reset">RESET</string>
+</resources>
